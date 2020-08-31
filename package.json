@@ -1,0 +1,28 @@
+{
+  "name": "gpt3-telephone-chatbot",
+  "version": "1.0.0",
+  "description": "GPT-3 (Generative Pre-trained Transformer 3) is a highly advanced language model from [OpenAI](https://openai.com). Its claim to fame is its ability to generate written text that is virtually indistinguishable from human-written text. The internal workings of GPT-3 get complex for sure. However, using GPT-3 via the OpenAI API is surprisingly simple. and in this tutorial,  you’ll see just how simple it is while building a GPT-3 powered telephone chatbot.",
+  "main": "gpt3-telephone-chatbot.js",
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dabblelab/gpt3-telephone-chatbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dabblelab/gpt3-telephone-chatbot/issues"
+  },
+  "homepage": "https://github.com/dabblelab/gpt3-telephone-chatbot#readme"
+}
