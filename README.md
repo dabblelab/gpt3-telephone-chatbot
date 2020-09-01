@@ -1,6 +1,8 @@
 # Build a Telephone Chatbot with GPT-3 and Twilio Autopilot
 
-This is the source code for the tutorial [Build a Telephone Chatbot with GPT-3 and Twilio Autopilot](./tutorial/index.html). The final function code is in the file named [function-code-2.js](function-code-2.js);
+![Drag Racing](https://twilio-cms-prod.s3.amazonaws.com/images/ffDYsc4pz8pN00cRQ95CN4hhOeXjn9y8_vuLJlKaEdSAJ.width-1616.png)
+
+This is the source code for the tutorial, [Build a Telephone Chatbot with GPT-3 and Twilio Autopilot](https://www.twilio.com/blog/build-telephone-chatbot-gpt3-twilio-autopilot). The final function code is in the file named [function-code-2.js](function-code-2.js);
 
 
 ## Function Code - Step 1
